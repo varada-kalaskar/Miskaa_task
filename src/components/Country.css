@@ -1,0 +1,46 @@
+.testimonialcaption{
+    margin-bottom: -2vh;
+}
+  
+.message{
+    color: black;
+}
+
+.flag{
+    height: 14vh;
+    width:21vh;
+    float: right;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.personalinfo{
+    text-align: left;
+}
+
+.fa-quote-right, .fa-quote-left{
+    margin: 1vh;
+}
+
+.rating{
+    color:white;
+    margin-top: 1vh;
+}
+
+.location{
+    color: black;
+    font-size: 2.5vh;
+}
+
+.name{
+    font-size: 5vh;
+}
+
+.show{
+    height: 7vh;
+    width: 14vh;
+    border: 1px solid rgb(51, 192, 51);
+    border-radius: 1.5vh;
+    margin-top:2vh ;
+    background-color: rgb(51, 192, 51);
+    color: white;
+}
